@@ -1,11 +1,9 @@
 import Product from "../Product";
 import "./style.css";
 
-// eslint-disable-next-line react/prop-types
 const ProductsList = ({ productsData, setProductsData }) => {
   // Updates the sale count for a specific product and payment type.
   const updateSale = (productId, paymentType, operation) => {
-    // eslint-disable-next-line react/prop-types
     const updatedProducts = productsData.map((product) => {
       if (product.id === productId) {
         // Ensure the count doesn't go below 0.
@@ -33,7 +31,6 @@ const ProductsList = ({ productsData, setProductsData }) => {
   return (
     <div>
       <h2>Daily Registration</h2>
-      {/* eslint-disable-next-line react/prop-types */}
       {productsData.map((product) => (
         <div className="product-container" key={product.id}>
           <Product name={product.name} price={product.price} id={product.id} />
