@@ -1,0 +1,123 @@
+[
+  {
+    "name": "1/2 Hour Pool Before 4",
+    "id": "1",
+    "price": 7,
+    "salesByPayment": {
+      "debit": 0,
+      "visa": 0,
+      "mc": 0,
+      "cash": 0
+    }
+  },
+  {
+    "name": "1 Hour Pool Before 4",
+    "id": "2",
+    "price": 10,
+    "salesByPayment": {
+      "debit": 0,
+      "visa": 0,
+      "mc": 0,
+      "cash": 0
+    }
+  },
+  {
+    "name": "1/2 Hour Pool After 4",
+    "id": "3",
+    "price": 3.5,
+    "salesByPayment": {
+      "debit": 0,
+      "visa": 0,
+      "mc": 0,
+      "cash": 0
+    }
+  },
+  {
+    "name": "1 Hour Pool After 4",
+    "id": "4",
+    "price": 5,
+    "salesByPayment": {
+      "debit": 0,
+      "visa": 0,
+      "mc": 0,
+      "cash": 0
+    }
+  },
+  {
+    "name": "Pop",
+    "id": "5",
+    "price": 3,
+    "salesByPayment": {
+      "debit": 0,
+      "visa": 0,
+      "mc": 0,
+      "cash": 0
+    }
+  },
+  {
+    "name": "Water",
+    "id": "6",
+    "price": 3,
+    "salesByPayment": {
+      "debit": 0,
+      "visa": 0,
+      "mc": 0,
+      "cash": 0
+    }
+  },
+  {
+    "name": "Energy Drink",
+    "id": "7",
+    "price": 4,
+    "salesByPayment": {
+      "debit": 0,
+      "visa": 0,
+      "mc": 0,
+      "cash": 0
+    }
+  },
+  {
+    "name": "Movie Ticket (Student)",
+    "id": "8",
+    "price": 7,
+    "salesByPayment": {
+      "debit": 0,
+      "visa": 0,
+      "mc": 0,
+      "cash": 0
+    }
+  },
+  {
+    "name": "Movie Ticket (Guest)",
+    "id": "9",
+    "price": 8,
+    "salesByPayment": {
+      "debit": 0,
+      "visa": 0,
+      "mc": 0,
+      "cash": 0
+    }
+  },
+  {
+    "name": "Knights Ticket (Student)",
+    "id": "10",
+    "price": 20,
+    "salesByPayment": {
+      "debit": 0,
+      "visa": 0,
+      "mc": 0,
+      "cash": 0
+    }
+  },
+  {
+    "name": "Knights Ticket (Guest)",
+    "id": "11",
+    "price": 22,
+    "salesByPayment": {
+      "debit": 0,
+      "visa": 0,
+      "mc": 0,
+      "cash": 0
+    }
+  }
+]

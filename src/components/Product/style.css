@@ -1,0 +1,20 @@
+/* .product-container {
+  display: flex;
+  gap: 1rem;
+  width: 30rem;
+  height: 4rem;
+  padding: 0.2rem;
+  border: 1px solid black;
+  border-radius: 5px;
+  justify-content: space-between;
+  align-items: center;
+} */
+
+.btns-container {
+  display: flex;
+  gap: 10px;
+}
+
+.btns-container > button {
+  cursor: pointer;
+}
