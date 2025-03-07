@@ -1,10 +1,11 @@
 import "./style.css";
+import gamesroomLogo from "../../assets/gamesroom.jpg";
 
 const Header = () => {
   return (
     <header>
-      <h1>Biz Booth</h1>
-      {/* <img src="../../assets/gamesroom.jpg" alt="theGamesRoomLogo" /> */}
+      {/* <h1>Biz Booth</h1> */}
+      <img src={gamesroomLogo} alt="theGamesRoomLogo" />
     </header>
   );
 };

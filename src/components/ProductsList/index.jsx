@@ -30,7 +30,7 @@ const ProductsList = ({ productsData, setProductsData }) => {
 
   return (
     <div>
-      <h2>Daily Registration</h2>
+      {/* <h2>Daily Registration</h2> */}
       {productsData.map((product) => (
         <div className="product-container" key={product.id}>
           <Product name={product.name} price={product.price} id={product.id} />
