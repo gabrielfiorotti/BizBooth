@@ -1,6 +1,7 @@
 import "./style.css";
 
 const SheetInfo = () => {
+  const printPage = () => window.print();
   return (
     <div className="sheet-info">
       <label>
@@ -15,6 +16,7 @@ const SheetInfo = () => {
         Shift Time:
         <input type="text" placeholder="e.g. 11AM-3PM" />
       </label>
+      <button onClick={printPage}>Print</button>
     </div>
   );
 };
